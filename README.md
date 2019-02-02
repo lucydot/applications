@@ -4,7 +4,6 @@ If you're looking for my homepage, it is [here](https://lucydot.github.io) <img 
 
 ### Application List
 
-<details>
   <summary>SSI Fellowship, Feb 2019</summary>
   
  </br>
