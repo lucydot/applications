@@ -1,4 +1,4 @@
-A collection of my funding applications [reveal-md](https://github.com/webpro/reveal-md).    
+A record of my funding applications.    
 If you're looking for my homepage, it is [here](https://lucydot.github.io) <img src="./world.png" width="20" height="20">
 <details>
   <summary> Click here for website licensing information </summary>
