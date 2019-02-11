@@ -18,8 +18,21 @@ Fellowship Application to the Sustainable Software Institute, 02/19.
   <summary>Journal of Open Source Software topic editor, Jan 2019</summary> 
 </br>
 
-[paper application]("https://lucydot.github.io/applications/raw/gh-pages/LW_JOSS_editor_app.pdf") **To be decided**
+[paper application](https://lucydot.github.io/applications/raw/gh-pages/LW_JOSS_editor_app.pdf) **To be decided**
 
 Application statement for topic editor position with the Journal of Open Source Software, 01/19.
 
 </details>
+
+<details>
+  <summary>Centre for Plastic Electronics International Exchange Scholarship Programme, Dec 2018</summary>
+  
+ </br>
+ 
+[paper application](https://lucydot.github.io/applications/raw/gh-pages/CPE_app.pdf) **To be decided**
+
+Application for funding to visit researchers at the Tokyo Institute of Technology, 12/18.
+Proposed project title: "High throughput calculation of electron-hole recombination rates in semiconductors" 
+
+</details>
+
